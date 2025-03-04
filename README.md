@@ -2,7 +2,7 @@
 
 I wrote a blog post about the project: [building a camera driver from scratch](https://cetusian.com/projects/ps3eye_driver).
 
-![PS3 Eye Camera](ps3eye_camera_1.png)
+![PS3 Eye Camera](ps3eye_camera_2.png)
 
 ### Steps to run the project
 
