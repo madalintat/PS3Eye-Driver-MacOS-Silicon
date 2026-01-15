@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "/opt/homebrew/Cellar/libusb/1.0.27/include/libusb-1.0/libusb.h"
+#include "/opt/homebrew/include/libusb-1.0/libusb.h"
 #include <string.h>
 #include <unistd.h>
 

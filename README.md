@@ -18,7 +18,7 @@ cd PS3Eye-Driver-MacOS-Silicon
 
 #### Compile the driver
 ```bash
-gcc -o ps3eye_test ps3eye_test.c -I/opt/homebrew/Cellar/libusb/1.0.27/include/libusb-1.0 -L/opt/homebrew/Cellar/libusb/1.0.27/lib -lusb-1.0
+gcc -o ps3eye_test ps3eye_test.c -I/opt/homebrew/include/libusb-1.0 -L/opt/homebrew/lib -lusb-1.0
 ```
 
 #### Run the driver
